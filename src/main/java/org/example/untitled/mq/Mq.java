@@ -9,7 +9,7 @@ import javax.jms.*;
 public class Mq {
 
     private static final String WIRE_LEVEL_ENDPOINT
-            = "ssl://b-d304a064-c674-4e8f-86de-be9139fdc19e-1.mq.eu-central-1.amazonaws.com:61617";
+            = "ssl://b-bf697da4-6770-4f18-b4be-f1d6d72be87f-1.mq.eu-central-1.amazonaws.com:61617";
     private static final String ACTIVE_MQ_USERNAME = "activemq";
     private static final String ACTIVE_MQ_PASSWORD = "exampleexample";
     private static final String QUEUE_NAME = "queue";
